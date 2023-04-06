@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: #40514e;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Titillium Web', RazerF5, Arial, Arial, Helvetica, sans-serif;
+    font-size: 5.625em;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #11999e;
+    font-weight: normal;
+}
+
+.special {
+    font-family: 'Titillium Web', RazerF5, Arial, Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    position: relative;
+    bottom: 50px;
+    
+
+}
+p {
+    font-family: 'Titillium Web', RazerF5, Arial, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+
+}
+
+div {
+    background-color: #ffffff;
+}
+
+hr {
+    border: dotted #8b9c9c 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 30px auto 30px auto;
+}
+
+.top-container {
+    background-color: #d5faf3;
+    position: relative;
+    padding-top: 100px;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.middle-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin: 50px 0;
+}
+
+.bottom-container {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color:#d5faf3;
+}
+
+.pro {
+    font-style: italic;
+    font-weight: bold;
+}
+
+a {
+    color: #11999e;
+    text-decoration: none;
+    margin: 10px 20px;
+    position: relative;
+    top: 20px;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.hobbies {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.education {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contactmessage {
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+
+.btn {
+    background: #11Cdd4;
+    background-image: -webkit-linear-gradient(top, #11Cdd4, #11999E);
+    background-image: -moz-linear-gradient(top, #11Cdd4, #11999E);
+    background-image: -ms-linear-gradient(top, #11Cdd4, #11999E);
+    background-image: -o-linear-gradient(top, #11Cdd4, #11999E);
+    background-image: linear-gradient(to bottom, #11Cdd4, #11999E);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Titillium Web', RazerF5, Arial, Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
